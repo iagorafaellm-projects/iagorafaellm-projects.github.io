@@ -1,0 +1,56 @@
+html {
+    scroll-behavior: smooth;
+}
+
+/* site background */
+body {
+    background-color: #1E1E1E;
+}
+
+/* title */
+@font-face {
+    font-family: SF-Pro-Display-Bold;
+    src: url(../assets/sfProFamily/SF-Pro-Display-Bold.otf);
+}
+
+/* title and texts */
+h1 {
+    font-family: SF-Pro-Display-Bold;
+    font-size: 2.875em;
+    color: #3679F7;
+}
+
+@font-face {
+    font-family: SF-Pro-Text-Bold;
+    src: url(../assets/sfProFamily/SF-Pro-Text-Bold.otf);
+}
+
+/* button text */
+h2 {
+    font-family: SF-Pro-Text-Bold;
+    color: #f2f2f2;
+}
+
+@font-face {
+    font-family: SF-Pro-Display-Regular;
+    src: url(../assets/sfProFamily/SF-Pro-Display-Regular.otf);
+}
+
+/* footer texts+ */
+h3 {
+    font-family: SF-Pro-Display-Regular;
+    color: #3679F7;
+    font-size: 1.75em;
+}
+
+@font-face {
+    font-family: SF-Pro-Display-Regular;
+    src: url(../assets/sfProFamily/SF-Pro-Display-Regular.otf);
+}
+
+/* footer texts- */
+h4 {
+    font-family: SF-Pro-Display-Regular;
+    color: #BFBFBF;
+    font-size: 1.25em;
+}
